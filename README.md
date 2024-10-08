@@ -1,0 +1,1 @@
+Analyzed a dataset about traffic accidents from the city of addis abbaba to discover leading causes of accidents and major factors surrounding those accidents, I parsed my analysis as an HTML report and created a web page and its link can be accessed from this repository.
